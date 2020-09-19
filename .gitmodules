@@ -1,0 +1,3 @@
+[submodule "nyt-deaf"]
+	path = nyt-deaf
+	url = https://github.com/briennakh/nyt-deaf
