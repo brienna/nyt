@@ -1,3 +1,6 @@
 [submodule "nyt-deaf"]
 	path = nyt-deaf
 	url = https://github.com/briennakh/nyt-deaf
+[submodule "nyt-get-author-contribs"]
+	path = nyt-get-author-contribs
+	url = https://github.com/brienna/nyt-get-author-contribs.git
